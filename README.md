@@ -7,3 +7,4 @@
 
 Change the location of chromedriver by assigning it to chromeDriverLoc at Line 10.
 (If you want to use firefox driver change the webdriver type at Line 28 , use webdriver.Firefox
+
